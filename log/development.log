@@ -224,3 +224,6 @@ Started GET "/about" for 86.25.49.110 at 2019-10-19 13:24:00 +0000
 Processing by StaticController#about as HTML
   Rendering static/hello_world.erb within layouts/application
   Rendered static/hello_world.erb within layouts/application (1.1ms)
+Completed 200 OK in 455ms (Views: 446.2ms | ActiveRecord: 0.0ms)
+
+
